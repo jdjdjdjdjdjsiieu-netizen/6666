@@ -1,0 +1,23 @@
+[
+    {
+        "product_name": "AI-Driven Project Management Tool",
+        "referral_link": "https://ref.link/ai-pm-tool",
+        "key_benefits": "Автоматическое планирование, прогнозирование рисков, интеграция с GitHub. Идеально для IT-специалистов и стартапов.",
+        "target_audience": "IT-менеджеры, разработчики, владельцы стартапов",
+        "free_tier_info": "Бесплатный тариф до 5 пользователей."
+    },
+    {
+        "product_name": "Online Course: Python for Data Science",
+        "referral_link": "https://ref.link/python-data-course",
+        "key_benefits": "Полный курс по Python, Pandas, NumPy и Matplotlib. Сертификат по окончании. Отлично для тех, кто хочет сменить профессию.",
+        "target_audience": "Студенты, аналитики, люди, ищущие новую профессию",
+        "free_tier_info": "Первые 3 модуля бесплатно."
+    },
+    {
+        "product_name": "Cloud Storage with Enhanced Security",
+        "referral_link": "https://ref.link/secure-cloud-storage",
+        "key_benefits": "Сквозное шифрование, хранение данных в Европе, автоматическое резервное копирование. Важно для фрилансеров и малого бизнеса.",
+        "target_audience": "Фрилансеры, малый бизнес, пользователи, заботящиеся о приватности",
+        "free_tier_info": "10 ГБ бесплатно навсегда."
+    }
+]
